@@ -22,8 +22,8 @@ p2 {
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-image: url("http://ingstadmedia.com/kmrskkok/wp-content/uploads/sites/9/2018/09/Vikings-1.jpg");
-	background-size: cover;
+	background-radius: 15px;
+	background-color: rgb(66, 43, 113);
 
 	text-align: left;
 }
