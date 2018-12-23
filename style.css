@@ -7,6 +7,7 @@ body {
 
 p1 {
   color: red;
+	
 }
 
 p2 {
@@ -15,21 +16,22 @@ p2 {
 
 #container1 {
 	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 100px;
+	margin-right: 100px;
 
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #217D40;
+	background-image: url("http://ingstadmedia.com/kmrskkok/wp-content/uploads/sites/9/2018/09/Vikings-1.jpg");
+	background-size: cover;
 
 	text-align: left;
 }
 
 #container2 {
 	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 100px;
+	margin-right: 100px;
 
 	padding: 10px 150px 10px 150px;
 
@@ -41,8 +43,8 @@ p2 {
 
 #container3 {
 	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 100px;
+	margin-right: 100px;
 
 	padding: 10px 150px 10px 150px;
 
