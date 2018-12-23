@@ -19,6 +19,32 @@ p2 {
 	text-align: left;
 }
 
+#container2 {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: Purple;
+
+	text-align: left;
+}
+
+#container3 {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #FF0000;
+
+	text-align: left;
+}
+
 h1 {
 	font-size: 64px;
 	margin-bottom: -25px;
