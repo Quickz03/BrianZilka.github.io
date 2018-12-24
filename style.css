@@ -24,7 +24,6 @@ body {
 
 p1 {
         color: rgb(1, 168, 80);
-	padding: 10px;
 	
 }
 
@@ -70,7 +69,7 @@ p1 {
 
 h1 {
 	font-size: 64px;
-	font-color: white;
+	color: white;
 	margin-top: -5px;
 	margin-bottom: -20px;
 }
@@ -78,7 +77,7 @@ h1 {
 h2 {
 	font-size: 44px;
 	margin-bottom: -6px;
-	font-color: white;
+	color: white;
 }
 
 h3 {
