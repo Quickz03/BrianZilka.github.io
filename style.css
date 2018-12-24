@@ -5,7 +5,17 @@ body {
 	width: 100%;
 }
 
-#pic {
+#pic1 {
+	float: right;
+	
+}
+
+#pic2 {
+	float: right;
+	
+}
+
+#pic3 {
 	float: right;
 	
 }
