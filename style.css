@@ -7,9 +7,19 @@ body {
 
 #pic {
 	float: right;
-	height: 20%;
-	width: 20%;
+.resize {
+    width: 200px;
+    height: auto;
 }
+
+.resize {
+    width: 200px;
+    height: auto;
+}
+
+<img class="resize" src="https://s1189.photobucket.com/user/quickz03/media/sports%20teams/vikings_zpsstqd5cqi.png.html][IMG]https://i1189.photobucket.com/albums/z435/quickz03/sports%20teams/vikings_zpsstqd5cqi.png"/>
+}
+
 
 
 p1 {
