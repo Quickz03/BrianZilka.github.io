@@ -5,6 +5,10 @@ body {
 	width: 100%;
 }
 
+#pic {
+	float: right;
+}
+
 
 p1 {
   color: red;
